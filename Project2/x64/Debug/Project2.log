@@ -1,0 +1,22 @@
+﻿LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+Source.obj : error LNK2001: unresolved external symbol __glewBindBuffer
+Source.obj : error LNK2001: unresolved external symbol __glewBufferData
+Source.obj : error LNK2001: unresolved external symbol __glewGenBuffers
+Source.obj : error LNK2001: unresolved external symbol __glewEnableVertexAttribArray
+Source.obj : error LNK2001: unresolved external symbol __glewGetUniformLocation
+Source.obj : error LNK2001: unresolved external symbol __glewUniformMatrix4fv
+Source.obj : error LNK2001: unresolved external symbol __glewUseProgram
+Source.obj : error LNK2001: unresolved external symbol __glewVertexAttribPointer
+Source.obj : error LNK2001: unresolved external symbol __glewBindVertexArray
+Source.obj : error LNK2001: unresolved external symbol __glewGenVertexArrays
+utils.obj : error LNK2001: unresolved external symbol __glewAttachShader
+utils.obj : error LNK2001: unresolved external symbol __glewCompileShader
+utils.obj : error LNK2001: unresolved external symbol __glewCreateProgram
+utils.obj : error LNK2001: unresolved external symbol __glewCreateShader
+utils.obj : error LNK2001: unresolved external symbol __glewGetProgramInfoLog
+utils.obj : error LNK2001: unresolved external symbol __glewGetProgramiv
+utils.obj : error LNK2001: unresolved external symbol __glewGetShaderInfoLog
+utils.obj : error LNK2001: unresolved external symbol __glewGetShaderiv
+utils.obj : error LNK2001: unresolved external symbol __glewLinkProgram
+utils.obj : error LNK2001: unresolved external symbol __glewShaderSource
+C:\Users\LeonH\source\repos\OpenGL_Project\x64\Debug\Project.exe : fatal error LNK1120: 20 unresolved externals
